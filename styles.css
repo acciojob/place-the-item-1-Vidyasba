@@ -4,7 +4,7 @@
 	margin:0px;
 	padding:0px;
 }
-.outer-div{
+.holder{
 	display:flex;
 	justify-content:space-between;
 	align-items:center;
